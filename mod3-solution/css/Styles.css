@@ -1,0 +1,42 @@
+#header-nav{
+	background-color: gray;
+	border-top: black solid 3.5px;
+	border-bottom: black solid 3.5px;
+}
+.navbar-brand{
+	color: black;
+	font-size: 2rem;
+}
+.navbar-header{
+	width: 100%;
+}
+#thee{
+
+	float: right;
+}
+#nav-list{
+	width: 100%;
+	text-align: center;
+	font-size: 1.5em;
+}
+#nav-list li{
+	border-bottom: solid black 1px;
+}
+#nav-list li a{
+	text-decoration: none;
+	color: black;
+}
+#main{
+	padding-top: 20px;
+}
+#def{
+	background-color: gray;
+	margin-top: 20px;
+}
+#all_def{
+	margin-top: 20px;
+}
+#back_top{
+	color: navy;
+	width: 100%;
+}
