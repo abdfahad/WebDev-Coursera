@@ -11,8 +11,10 @@
 	width: 100%;
 }
 #thee{
-
+	height: 100%;
 	float: right;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 #nav-list{
 	width: 100%;
